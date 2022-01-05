@@ -1,4 +1,4 @@
-### Hi there 👋, Ankix
+### Hi there 👋, I'm Ankix
 #### Unity Game Developer with Cyber Security
 I am a Unity Game Developer, Web Security Learner, and Cyber Security, enthusiast. I love to create projects, games, and solve CTFs.
 
